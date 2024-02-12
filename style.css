@@ -4,7 +4,7 @@ body {
   justify-content: center;
   height: 100vh;
   margin: 0;
-  background-color: #ffffff;
+  background: linear-gradient(90deg, rgba(230,171,22,1) 0%, rgba(255,0,0,1) 100%);
 }
 
 .container {

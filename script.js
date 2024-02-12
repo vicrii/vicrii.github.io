@@ -47,7 +47,7 @@ document.getElementById("noBtn").addEventListener("click", function () {
       document.getElementById("sadGifContainer").style.display = "block";
 
       // Modificar el botón "No"
-      document.getElementById("noBtn").innerHTML = "¡Oh no! ¿Estás segura?";
+      document.getElementById("noBtn").innerHTML = "ME ESTAS ROMPIENDO EL CORAZON";
       document.getElementById("noBtn").style.backgroundColor = "#F1330A";
 
       document.getElementById("siBtn").style.fontSize = "40px";

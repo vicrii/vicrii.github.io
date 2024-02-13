@@ -48,7 +48,6 @@ document.getElementById("noBtn").addEventListener("click", function () {
 
       // Modificar el botón "No"
       document.getElementById("noBtn").innerHTML = "ME ESTAS ROMPIENDO EL CORAZON";
-      document.getElementById("question").innerHTML = "QUEEEEE";
       document.getElementById("noBtn").style.backgroundColor = "#F1330A";
 
       document.getElementById("siBtn").style.fontSize = "40px";
